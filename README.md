@@ -176,8 +176,6 @@ This project demonstrates how to build a **Currency Converter** application usin
 ### Backend:
 - **GraphQL Playground**: Querying the API for currency conversion.
 
-*(Add screenshots as needed)*
-
 ---
 
 ## Future Enhancements
