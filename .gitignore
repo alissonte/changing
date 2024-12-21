@@ -1,0 +1,37 @@
+changing-backend/HELP.md
+changing-backend/target/
+changing-backend/.mvn/wrapper/maven-wrapper.jar
+changing-backend/**/src/main/**/target/
+changing-backend/**/src/test/**/target/
+
+### STS ###
+changing-backend/.apt_generated
+changing-backend/.classpath
+changing-backend/.factorypath
+changing-backend/.project
+changing-backend/.settings
+changing-backend/.springBeans
+changing-backend/.sts4-cache
+
+### IntelliJ IDEA ###
+changing-backend/.idea
+changing-backend/*.iws
+changing-backend/*.iml
+changing-backend/*.ipr
+
+### NetBeans ###
+changing-backend/nbproject/private/
+changing-backend/nbbuild/
+changing-backend/dist/
+changing-backend/nbdist/
+changing-backend/.nb-gradle/
+changing-backend/build/
+changing-backend/**/src/main/**/build/
+changing-backend/**/src/test/**/build/
+
+### VS Code ###
+changing-backend/.vscode/
+changing-backend/.idea/
+changing-backend/.mvn/
+changing-backend/mvnw
+changing-backend/mvnw.cmd
